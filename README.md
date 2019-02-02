@@ -135,6 +135,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
     * [Video](http://feeds.feedburner.com/BsdNowMobile)
     * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
+* [BSDTalk](http://bsdtalk.blogspot.com/)
+
+  * **Description**: Talking about the BSD family of free operating systems
+  * **Frequency**: Sporadic
+  * **Runtime**: 15 - 45 mins, regularly ~20 mins
+  * **RSS**
+    * [MP3](http://feeds.feedburner.com/Bsdtalk)
+
 * [GarbageFM](https://garbage.fm/)
 
   * **Description**: A podcast about technology, much of it garbage
