@@ -135,6 +135,16 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
     * [Video](http://feeds.feedburner.com/BsdNowMobile)
     * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
+* [GarbageFM](https://garbage.fm/)
+
+  * **Description**: A podcast about technology, much of it garbage
+  * **Frequency**: Discontinued after 47 episodes
+  * **Runtime**: 30 - 90 mins, regularly ~30 mins
+  * **RSS**
+    * [MP3](https://garbage.fm/episodes.rss)
+    * [Google Play](https://play.google.com/music/listen#/ps/Impv6uppoxna2j7zr6wipvjp4m4)
+    * [iTunes](https://itunes.apple.com/us/podcast/garbage/id1052406628?mt=2)
+
 ## C++
 
 * [Cpp.chat](http://slashslash.info/cppchat/)
